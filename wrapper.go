@@ -3,7 +3,7 @@ package waboorrt
 import (
 	"net/http"
 
-	"waboorrt/waboorrt/actions"
+	"github.com/osiewers/waboorrt-go/actions"
 )
 
 type wrapper struct {

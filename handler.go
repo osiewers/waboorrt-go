@@ -6,7 +6,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/gorilla/rpc/v2"
 
-	"waboorrt/waboorrt/actions"
+	"github.com/osiewers/waboorrt-go/actions"
 )
 
 type Bot interface {

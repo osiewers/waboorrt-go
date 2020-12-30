@@ -3,7 +3,7 @@ package types
 import (
 	"math"
 
-	"waboorrt/waboorrt/actions/constants"
+	"github.com/osiewers/waboorrt-go/actions/constants"
 )
 
 type Pos struct {

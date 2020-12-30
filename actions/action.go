@@ -1,8 +1,8 @@
 package actions
 
 import (
-	"waboorrt/waboorrt/actions/constants"
-	"waboorrt/waboorrt/types"
+	"github.com/osiewers/waboorrt-go/actions/constants"
+	"github.com/osiewers/waboorrt-go/types"
 )
 
 type Action interface {

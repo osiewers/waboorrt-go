@@ -1,7 +1,7 @@
 package waboorrt
 
 import (
-	"waboorrt/waboorrt/types"
+	"github.com/osiewers/waboorrt-go/types"
 )
 
 type MeInfo struct {
